@@ -1,4 +1,4 @@
-# CS506 Midterm
+# Album Review Score Prediction using Machine Learning and NLP
 
 ## Overview
 
@@ -6,6 +6,24 @@ Khoa Cao (Kaggle: *kcao23*)
 
 This repository contains my work for the CS506 midterm project, where I developed a machine learning model to predict album review scores based on various features extracted and engineered from the provided dataset using Machine Learning and NLP techniques.
 
+## How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone
+   cd reviews-nlp
+    ```
+
+2. Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `code.ipynb` notebook to execute the entire workflow from feature engineering to model training and evaluation.
+
+## Project Structure
 
 1. Data Exploration
 
